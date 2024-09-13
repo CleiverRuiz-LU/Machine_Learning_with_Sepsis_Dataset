@@ -1,36 +1,29 @@
 # Sepsis Survival Minimal Clinical Records
 
-This repository contains data and resources related to the study of sepsis survival using minimal clinical records.
-
-## Repository Overview
-
-The data is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records) and is intended for research and analysis of sepsis survival based on clinical records.
+This repository is dedicated to studying and learning from the **Sepsis Survival Minimal Clinical Records** dataset provided by UC Irvine Machine Learning Repository.
 
 ## Dataset
 
-The dataset is provided by:
+The dataset used in this repository is available at the following link:
 
-- **Title:** Sepsis Survival Minimal Clinical Records
-- **Authors:** D. Chicco and G. Jurman
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records)
-- **Publication Year:** 2020
-- **Citation:** D. Chicco and G. Jurman. "Sepsis Survival Minimal Clinical Records," UCI Machine Learning Repository, 2020. [Online]. Available: [https://doi.org/10.24432/C53C8N](https://doi.org/10.24432/C53C8N).
+[Sepsis Survival Minimal Clinical Records](https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records)
+
+## Citation
+
+Please cite the following reference if you use this dataset:
+
+D. Chicco and G. Jurman. "Sepsis Survival Minimal Clinical Records," UCI Machine Learning Repository, 2020. [Online]. Available: [https://doi.org/10.24432/C53C8N](https://doi.org/10.24432/C53C8N).
+
+## Purpose
+
+This repository is intended for educational purposes and personal projects. It focuses on understanding the application of machine learning techniques in the medical field, specifically in predicting sepsis survival.
 
 ## Usage
 
-To get started with the dataset:
-
-1. Download the dataset from the provided link.
-2. Follow the documentation or guidelines provided in this repository for data analysis.
-
-## License
-
-Please refer to the dataset's license and terms of use provided by the UCI Machine Learning Repository.
+Feel free to explore the repository to learn more about the dataset and experiment with various machine learning models.
 
 ## Contact
 
-For any questions or inquiries, please contact:
-
-- **Repository Maintainer:** [Your Name or Contact Information]
+For any questions or suggestions, please contact [Your Name] at [Your Email].
 
 
